@@ -24,5 +24,4 @@ Enable dynamic filtering for deeper insights
 -Enabled dynamic analysis by product, category, region, and time using slicers and filters.
 -Provided actionable insights to identify top-performing products, regions, and sales trends.
 
-If yo
 
